@@ -1,0 +1,7 @@
+data/raw/messy_ecommerce_orders.csv
+data/clean/*.csv
+data/clean/*.parquet
+*.duckdb
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
